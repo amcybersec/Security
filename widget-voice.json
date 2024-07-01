@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Widget Voice",
+    "description": "custom voice widget for qatar air",
+    "tags": "widget, voice, qatar air",
+    "library": "widget-voice",
+    "version": "1.0.0",
+    "date": "2021-06-29T13:25:13.174Z",
+    "id": "66205eae-d7d6-4102-8482-d66c7f8a3a1d"
+  },
+  "configuration": {
+    "external": true,
+    "timeout": 5000,
+    "serie": true,
+    "name": "66205eae-d7d6-4102-8482-d66c7f8a3a1d",
+    "element": "<widget-voice></widget-voice>",
+    "icon": "aoc-phone",
+    "files": [
+      "widget-voice/widget-voice.css",
+      "widget-voice/widget-voice.js",
+      "widget-voice/libs/alasql.min.js",
+      "widget-voice/libs/widget-voice-config.js",
+      "widget-voice/libs/widget-voice-custom.js",
+      "widget-voice/libs/custom/js/bootstrap-datetimepicker.min.js",
+      "widget-voice/libs/custom/js/jquery.dataTables.min.js"
+    ]
+  }
+}
